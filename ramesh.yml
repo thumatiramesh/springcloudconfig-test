@@ -6,3 +6,7 @@ db:
   username: root
   password: root
   dialect: oracle-dialect
+my:
+  greeting: Hello World
+  list:
+    values: One, Two, Three
