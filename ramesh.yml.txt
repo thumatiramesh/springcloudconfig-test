@@ -1,4 +1,4 @@
 details:
-       name: Ramesh
-	   place: nellore
+       name: nellore
+	   place: ramesh
 	   phone: 9121717338
