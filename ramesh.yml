@@ -6,7 +6,7 @@ jobs:
     docker:
       - image: circleci/<language>:<version TAG>
         auth:
-          username: mydockerhub-user
+          username: ramesh
           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
     steps:
       - checkout
